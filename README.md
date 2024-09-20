@@ -55,9 +55,11 @@ From Electrical and Electronic Engineering to AI Enthusiast: Pursuing a Passion 
 |---|---|
 |<img src="./hire_me_zabombey.gif" width="300" height="200"/>|![WebcrazyDylan github stat](https://github-readme-stats.vercel.app/api?username=WebcrazyDylan&show_icons=true&hide_border=true&hide=&theme=aura)|
 
-|||
+|   |   |
 |---|---|
-|![WebcrazyDylan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WebcrazyDylan&theme=shades-of-purple)|![WebcrazyDylan top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=WebcrazyDylan&layout=compact&hide_border=true&theme=jolly)| 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKBAE143&theme=algolia) 
+
+
 
 |||
 |---|---|

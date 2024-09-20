@@ -41,7 +41,7 @@ From Electrical and Electronic Engineering to AI Enthusiast: Pursuing a Passion 
 <p align="center">
   <a href="https://jonghyunpark.shop/"><img src="https://img.shields.io/badge/Portfolio-FA829D?style=flat-square&logo=D-Wave Systems&logoColor=white&link=jonghyunpark.shop"/></a>&nbsp
   <a href="https://www.linkedin.com/in/itsmekarthikpilli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonghyun-park-dylan/?locale=en_US"/></a>&nbsp
-  <a href="[https://www.canva.com/design/DAFvAxXFG7s/zJZ854M7Wh1mNQn_5_6ZTQ/watch?utm_content=DAFvAxXFG7s&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://drive.google.com/file/d/1DAvXh5f7rGmMwNGjaF9Pnbk8jUjnyF8A/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-brightgreen?style=flat-square&logo=airplayvideo&logoColor=white&link=jonghyunpark.shop"/></a>
+  <a href="https://drive.google.com/file/d/1DAvXh5f7rGmMwNGjaF9Pnbk8jUjnyF8A/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-brightgreen?style=flat-square&logo=airplayvideo&logoColor=white&link=jonghyunpark.shop"/></a>
   <a href="mailto:kkbae143@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonghyun.park.dylan@gmail.com"/></a>
   
 </p>

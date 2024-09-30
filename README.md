@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm Pilli Karthik, an AI Engineer and Full Stack Developer passionate about building intelligent, functional, and impactful solutions. My expertise spans AI, machine learning, and full-stack development, where I aim to create scalable applications that solve real-world problems.
+I'm Pilli Karthik, an AI Engineer and Full Stack Developer passionate about building intelligent, functional, and impactful solutions. My expertise spans AI, machine learning, and full-stack development, where I aim to create scalable applications that solve real-world problems in my.
 
 - 🎓 Pursuing BTech in Computer Science and Engineering (IoT) at HITAM College, Hyderabad, India
 - 💡 Specializing in AI, machine learning, deep learning, cloud-native development, and API integrations

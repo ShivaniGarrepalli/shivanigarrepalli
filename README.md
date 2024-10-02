@@ -3,7 +3,7 @@
 <h1 align="center">👋 Welcome to Pilli Karthik's GitHub Profile 👋</h1>
 
 <p align="center">
-  <a href="/"><img src="https://img.shields.io/badge/Portfolio-FA829D?style=for-the-badge&logo=D-Wave Systems&logoColor=white"/></a>
+  <a href="https://pilli-karthik-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FA829D?style=for-the-badge&logo=D-Wave Systems&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/itsmekarthikpilli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1DAvXh5f7rGmMwNGjaF9Pnbk8jUjnyF8A/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-brightgreen?style=for-the-badge&logo=airplayvideo&logoColor=white"/></a>
   <a href="mailto:kkbae143@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>

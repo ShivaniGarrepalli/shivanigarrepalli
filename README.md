@@ -4,7 +4,7 @@
 
 <p align="center">  
   <a href="https://shivani-garrepalli-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FA829D?style=for-the-badge&logo=D-Wave Systems&logoColor=white"/></a>  
-  <a href="[https://www.linkedin.com/in/shivanigarrepalli/](https://www.linkedin.com/in/shivani-garrepalli/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>  
+  <a href="[https://www.linkedin.com/in/shivanigarrepalli/]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>  
   <a href="https://drive.google.com/file/d/1Htpz7ne2icOrIxenizLrABN7O6LCD56w/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-brightgreen?style=for-the-badge&logo=airplayvideo&logoColor=white"/></a>  
   <a href="mailto:shivanigarrepalli11@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>  
 </p>  

@@ -66,8 +66,7 @@ An AI-powered system for personalized cancer treatment plans. [View Project](htt
 ## 🎨 Fun Zone  
 
 <p align="center">  
-  <img src="./full-stack-development.gif" height="310" alt="Full Stack Development GIF"/>  
-  <img src="./rabbitPoleDance.webp" height="310" alt="Rabbit Pole Dance GIF"/>  
+  <img src="./full-stack-development.gif" height="310" alt="Full Stack Development GIF"/>    
 </p>  
 
 ## 📬 Get in Touch  
